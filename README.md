@@ -1,6 +1,6 @@
 # ML-Projects
 
-![ML Projects AI Banner](ai.jpg)
+![ML Projects AI Banner](aI.jpg)
 
 
 
