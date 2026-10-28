@@ -1,6 +1,10 @@
 # ML-Projects
 
+![ML Projects AI Banner](ai.jpg)
 
+# ML Projects
+
+Machine Learning, Deep Learning and LLM projects.
 **Machine Learning · Deep Learning · NLP · Large Language Models**
 
 A growing collection of practical machine learning projects, experiments, and implementations of modern AI techniques.
