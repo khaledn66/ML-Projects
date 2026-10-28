@@ -1,18 +1,6 @@
 # ML-Projects
 
-ML-Projects/
 
- ── README.md
-
-── 01_Introduction_to_ML/
-── 02_Deep_Learning/
-── 03_LLMs/
-── 04_Computer_Vision/
-── 05_NLP/
-── 06_Time_Series/
-├── 07_MLOps/
-│
-└── resources/
 **Machine Learning · Deep Learning · NLP · Large Language Models**
 
 A growing collection of practical machine learning projects, experiments, and implementations of modern AI techniques.
