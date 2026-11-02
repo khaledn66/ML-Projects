@@ -7,7 +7,6 @@ Comparison of one-stage and two-stage object detectors on the same image, for de
 ## What it does
 
 
-
 The notebook runs all four COCO-pretrained models on one image with a shared confidence threshold, then reports latency, FPS, detections and parameter count. Timing uses warm-up runs and GPU synchronisation.
 
 ## Results
