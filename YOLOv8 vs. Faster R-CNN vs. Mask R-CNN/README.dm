@@ -14,11 +14,16 @@ The notebook runs all four COCO-pretrained models on one image with a shared con
 
 Run the notebook to generate the figures and `assets/benchmark_results.csv`, then paste your numbers here:
 
-model	           task	       latency_ms	     std_ms	fps	 detections@0.5	  params_M
-0	YOLOv8n	      detection	       162.8	      7.0	   6.1	    4	          3.2
-1	Faster R-CNN	detection	       8279.5	      601.1	 0.1	    5	          41.8
-2	YOLOv8n-seg	segmentation	     311.9	      53.4	 3.2     	4	          3.4
-3	Mask R-CNN	segmentation	      8855.8	    499.2	 0.1	    5            44.4
+## Model Performance Comparison
+
+## Model Performance Comparison
+
+| Model | Task | Lat. | Std. | FPS | Det. | Params |
+|---|---|---:|---:|---:|---:|---:|
+| YOLOv8n | Det. | 162.8 | 7.0 | 6.1 | 4 | 3.2 |
+| Faster R-CNN | Det. | 8279.5 | 601.1 | 0.1 | 5 | 41.8 |
+| YOLOv8n-seg | Seg. | 311.9 | 53.4 | 3.2 | 4 | 3.4 |
+| Mask R-CNN | Seg. | 8855.8 | 499.2 | 0.1 | 5 | 44.4 |
 
 ![Detection comparison](assets/detection_comparison.png)
 ![Segmentation comparison](assets/segmentation_comparison.png)
