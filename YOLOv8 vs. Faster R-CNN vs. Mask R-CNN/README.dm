@@ -26,7 +26,7 @@ Run the notebook to generate the figures and `assets/benchmark_results.csv`, the
 
 ![Detection comparison](assets/detection_comparison.png)
 ![Segmentation comparison](assets/segmentation_comparison.png)
-![Benchmark](https://github.com/khaledn66/ML-Projects/blob/main/YOLOv8%20vs.%20Faster%20R-CNN%20vs.%20Mask%20R-CNN/assets/benchmark.png)
+![Benchmark](assets/benchmark.png)
 
 ## Run it
 
