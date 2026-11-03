@@ -27,6 +27,9 @@ Run the notebook to generate the figures and `assets/benchmark_results.csv`, the
 ![Detection comparison](assets/detection_comparison.png)
 ![Segmentation comparison](assets/segmentation_comparison.png)
 ![Benchmark](assets/benchmark.png)
+![Detection comparison](assets/detection_comparison.png)
+![Segmentation comparison](assets/segmentation_comparison.png)
+![Benchmark](assets/benchmark.png)
 
 ## Run it
 
